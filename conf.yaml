@@ -1,0 +1,9 @@
+service:
+  httpPort: 9000
+  udpPort: 9000
+  sqliteDbFile: robot.db
+
+server:
+  ip: 127.0.0.1
+  port: 8000
+
